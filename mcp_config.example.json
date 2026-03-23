@@ -1,0 +1,12 @@
+{
+  "mcp": {
+    "servers": {
+      "structured-editor": {
+        "command": "python3",
+        "args": ["/path/to/mcp_server_editor.py"],
+        "env": {},
+        "description": "Structured File Editor with git-backed version control"
+      }
+    }
+  }
+}
