@@ -1,0 +1,8 @@
+# Structured File Editor MCP Server
+# ================================
+
+# Core dependency for MCP server
+mcp>=1.0.0
+
+# Optional: For message packing (if needed)
+# msgpack>=1.0.0
