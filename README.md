@@ -16,6 +16,9 @@ A git-backed file editing system that provides structured, tracked file modifica
 ```bash
 git clone https://github.com/1OOyan/structured-editor-mcp.git
 cd structured-editor-mcp
+
+# Install dependencies
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -84,6 +87,7 @@ structured-editor-mcp/
 ├── README.md                 # Main docs
 ├── README_MCP.md             # MCP docs
 ├── mcp_config.example.json   # Config example
+├── requirements.txt          # Dependencies
 ├── demo.py                   # Demo script
 ├── files/                    # Git repository with edited files
 │   ├── .git/
